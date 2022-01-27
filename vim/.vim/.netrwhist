@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/adi/repo'
+let g:netrw_dirhist_6='/Users/adi/repo/data'
+let g:netrw_dirhist_5='/Users/adi/repo/aoc/2020'
+let g:netrw_dirhist_4='/Users/adi/repo/aoc/2020/13'
+let g:netrw_dirhist_3='/Users/adi/repo/aoc/2020/12'
+let g:netrw_dirhist_2='/Users/adi/repo/data/python/care_delivery/service/endpoints'
+let g:netrw_dirhist_1='/Users/adi/repo/data/go/src/ocelot/pipeline/stages'
