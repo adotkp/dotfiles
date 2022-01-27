@@ -5,3 +5,8 @@ export PS1='\[\e[0;32m\]\u\[\e[m\] \[\e[0;33m\]\H\[\e[m\] \[\e[1;34m\]\w\[\e[m\]
 
 # Aliases
 alias ll='ls -laGh'
+
+# Unlimited bash history
+export HISTFILESIZE=
+export HISTSIZE=
+export HISTTIMEFORMAT="[%F %T] "
